@@ -6,7 +6,5 @@ public class A {
 		new B().likefood();
 		new C().dislikefood();
 		System.out.println("Change in master branch");
-
 	}
-
 }
