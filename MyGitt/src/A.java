@@ -5,6 +5,7 @@ public class A {
 		System.out.println("Sayyyyyyy");
 		new B().likefood();
 		new C().dislikefood();
+		System.out.println("Change in master branch");
 	}
 
 }
